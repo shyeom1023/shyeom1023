@@ -1,6 +1,7 @@
 <div align="left">
 
 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20SeokHyeon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
 
@@ -19,9 +20,8 @@
         <img src="https://img.shields.io/badge/velog-000000?style=for-the-badge&logo=velog&logoColor=white"> 
     </a>
 
-  
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=shyeom1023&theme=default)](https://velog.io/@shyeom1023/Spring-Boot-Retryable)
+
 </div><br>
 
 
@@ -32,6 +32,7 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
+
 
 
 ## 🔨 Once I've used 🔨
@@ -49,12 +50,14 @@
   <br>
 </div>  
 
+
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 		<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <br>
 </div>  		
+
 
 
 </div>
